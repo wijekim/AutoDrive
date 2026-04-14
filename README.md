@@ -4,10 +4,6 @@
 
 # 유튜브
 
-1.https://www.youtube.com/watch?v=8LIS25m1j_0
-2.https://www.youtube.com/watch?v=jfSHoSmzXnQ
-3.https://www.youtube.com/watch?v=auy0FfpMVHk
-
 
 [![Video Label](http://img.youtube.com/vi/8LIS25m1j_0/0.jpg)](https://youtu.be/8LIS25m1j_0)
 
